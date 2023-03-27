@@ -1,7 +1,7 @@
 # AI Rock Paper Scissor with hand gesture
 
 
-![Aistonepapaer](https://user-images.githubusercontent.com/81036521/177568863-c82ae583-791a-4b2c-8f6f-ef87acf184a3.JPG)
+![Aistonepapaer](https://raw.githubusercontent.com/ayush-raj13/RockPaperScissor/main/Resources/BG.png)
 
 #
 # Introduction
